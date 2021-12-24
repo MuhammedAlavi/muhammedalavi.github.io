@@ -1,0 +1,20 @@
+{
+  "name": "muhammedalavi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammedAlavi/muhammedalavi.github.io.git"
+  },
+  "author": "MuhammedAlavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammedAlavi/muhammedalavi.github.io/issues"
+  },
+  "homepage": "https://github.com/MuhammedAlavi/muhammedalavi.github.io#readme"
+}
